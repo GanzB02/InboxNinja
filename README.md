@@ -1,6 +1,6 @@
 # InboxNinja
 
-Project for Model Evaluation Spam Detection
+Project for Model Evaluation Spam Detection.
 
 Ganesharow Bappoo - C0909659
 
